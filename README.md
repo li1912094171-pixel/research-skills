@@ -16,3 +16,5 @@
 - `nature-figure` 取自 Yuan1z0825/nature-skills，遵循 Apache-2.0，协议文本见 LICENSE-nature-skills-Apache-2.0.txt。
 
 本仓库仅做精选搬运，未修改 skill 原内容；版权归原作者所有。
+
+Skills 位于 `.agents/skills/`，Codex 可自动发现调用。
